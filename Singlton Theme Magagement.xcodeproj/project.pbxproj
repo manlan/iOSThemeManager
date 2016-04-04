@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA6BD98D1CB23CA400591945 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = AA6BD98C1CB23CA400591945 /* README.md */; };
 		AAD2B3A41CAD399900FD65D8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD2B3A31CAD399900FD65D8 /* main.m */; };
 		AAD2B3A71CAD399900FD65D8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD2B3A61CAD399900FD65D8 /* AppDelegate.m */; };
 		AAD2B3AA1CAD399900FD65D8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAD2B3A91CAD399900FD65D8 /* ViewController.m */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AA6BD98C1CB23CA400591945 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AAD2B39F1CAD399900FD65D8 /* Singlton Theme Magagement.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Singlton Theme Magagement.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAD2B3A31CAD399900FD65D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AAD2B3A51CAD399900FD65D8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 		AAD2B3A21CAD399900FD65D8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AA6BD98C1CB23CA400591945 /* README.md */,
 				AAD2B3AB1CAD399900FD65D8 /* Main.storyboard */,
 				AAD2B3AE1CAD399900FD65D8 /* Assets.xcassets */,
 				AAD2B3B01CAD399900FD65D8 /* LaunchScreen.storyboard */,
@@ -191,6 +194,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA6BD98D1CB23CA400591945 /* README.md in Sources */,
 				AAD2B3BE1CAD3F2200FD65D8 /* SettingVC.m in Sources */,
 				AAD2B3AA1CAD399900FD65D8 /* ViewController.m in Sources */,
 				AAD2B3A71CAD399900FD65D8 /* AppDelegate.m in Sources */,
